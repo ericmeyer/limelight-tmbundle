@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:player}.mouse_clicked(${2:nil})$0</string>
+	<string>def mouse_clicked(${1:event})
+	$0
+end</string>
 	<key>name</key>
-	<string>mouse_clicked</string>
+	<string>def mouse_clicked</string>
 	<key>tabTrigger</key>
-	<string>mc</string>
+	<string>dmc</string>
 	<key>uuid</key>
-	<string>BCA15327-5838-4AB3-ADE8-1A5BA8D8BD90</string>
+	<string>7B9BB36D-2B95-464F-AD9A-D854F4422413</string>
 </dict>
 </plist>

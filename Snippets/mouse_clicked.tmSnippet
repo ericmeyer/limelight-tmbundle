@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:player}.mouse_clicked(${2:nil})$0</string>
+	<key>name</key>
+	<string>mouse_clicked</string>
+	<key>tabTrigger</key>
+	<string>mc</string>
+	<key>uuid</key>
+	<string>7B9BB36D-2B95-464F-AD9A-D854F4422413</string>
+</dict>
+</plist>

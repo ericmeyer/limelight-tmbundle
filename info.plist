@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Limelight</string>
+	<key>ordering</key>
+	<array>
+		<string>4C71A775-4966-48D9-8596-8F053DC26E64</string>
+		<string>7B9BB36D-2B95-464F-AD9A-D854F4422413</string>
+		<string>E7B0D227-7D40-4CBF-9489-745F73A73EF6</string>
+	</array>
+	<key>uuid</key>
+	<string>90B95423-FAC7-42B0-90B4-FE276E46C687</string>
+</dict>
+</plist>

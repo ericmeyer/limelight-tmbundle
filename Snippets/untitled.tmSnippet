@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require File.expand_path(File.dirname(__FILE__) + '/../../spec_helper')
+
+describe "${1:Player}" do
+  uses_limelight :scene_path =&gt; "${2:scene}" do
+    ${3:player} :id =&gt; "${3}"
+  end
+
+  $0
+end</string>
+	<key>name</key>
+	<string>describe scene with block</string>
+	<key>tabTrigger</key>
+	<string>dsb</string>
+	<key>uuid</key>
+	<string>4C71A775-4966-48D9-8596-8F053DC26E64</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>scene.find("${1:id}")$0</string>
+	<key>name</key>
+	<string>scene.find</string>
+	<key>tabTrigger</key>
+	<string>sf</string>
+	<key>uuid</key>
+	<string>4EDFED4B-108C-4FB6-A42F-9EB99457DAF1</string>
+</dict>
+</plist>
